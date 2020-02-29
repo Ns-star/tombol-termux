@@ -19,7 +19,7 @@ def setup():
 def banner():
     os.system('clear')
     print(a+'Shortcut for help you'.center(40))
-    print(b+'Karjok Pangesty'.center(40))
+    print(b+'An brush fon is handsome'.center(40))
     print("".join([i for i in "\n"*3]))
 
 
@@ -33,4 +33,4 @@ if __name__=='__main__':
             print('\rPlease wait '+i+' ',end="",flush=True)
             sleep(0.1)
     banner()
-    print(c+'Silahkan hubungi '+a+'https://t.me/om_karjok'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
+    print(c+'Silahkan hubungi '+a+'http://wa.me/+6289660267608'+c+' untuk melihat hasilnya, silakan buka new season\nTerimakasih ^_^')
